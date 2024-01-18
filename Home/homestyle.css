@@ -1,0 +1,43 @@
+main {}
+
+
+.siteName {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18;
+}
+
+.navigation-item {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    width: 25%;
+    color: white;
+    float: left;
+    list-style-type: none;
+    font-size: 18;
+}
+
+.navigation-list {
+    width: 100%;
+    overflow: auto;
+    background-color: gray;
+
+}
+
+.aboutMe {
+    font-family: sans-serif;
+}
+
+.aboutMe .aboutParagraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16;
+
+}
+
+.skills {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.technologies {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
