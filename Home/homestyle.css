@@ -1,5 +1,10 @@
-main {}
+h2 {
+    color: white;
+}
 
+.siteName {
+    color: white;
+}
 
 .siteName {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -43,6 +48,14 @@ main {}
 .technologies {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 17px;
+}
+
+.skills h3 {
+    color: white;
+}
+
+.skills .html img {
+    margin: 5px;
 }
 
 img {
