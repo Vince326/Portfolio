@@ -41,21 +41,28 @@ h2 {
 
 .skills {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 17px;
+    font-size: 19px;
 
 }
 
 .technologies {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 17px;
+    font-size: 19px;
 }
 
 .skills h3 {
     color: white;
+    font-size: 25px;
 }
 
 .skills .html img {
     margin: 5px;
+}
+
+.technologies h3 {
+    color: white;
+    font-size: 25px;
+
 }
 
 img {
