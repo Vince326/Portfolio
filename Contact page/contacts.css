@@ -1,79 +1,16 @@
-h2 {
-    color: white;
-}
-
-.siteName {
-    color: white;
-}
-
-.siteName {
+h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 18;
+    color: white
 }
 
-.navigation-item {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-decoration: none;
-    width: 25%;
-    color: white;
-    float: left;
-    list-style-type: none;
-    font-size: 18px;
-}
-
-.navigation-list {
-    width: 100%;
-    overflow: auto;
-    padding: 8px;
-    color: white;
-
-}
-
-.aboutMe {
-    font-family: sans-serif;
-}
-
-.aboutMe .aboutParagraph {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 16;
-
-}
-
-.skills {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+strong {
     font-size: 19px;
-
+    font: bold;
 }
 
-.technologies {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 19px;
-}
+strong p {
+    font-weight: 700;
 
-.skills h3 {
-    color: white;
-    font-size: 25px;
-}
-
-.skills .html img {
-    margin: 5px;
-}
-
-.technologies h3 {
-    color: white;
-    font-size: 25px;
-
-}
-
-img {
-    width: 40px;
-    height: 40px;
-
-}
-
-.dark-mode {
-    background-color: white;
-    color: black;
 }
 
 /* Page Background code */
